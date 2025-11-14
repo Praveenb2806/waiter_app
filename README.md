@@ -7,56 +7,56 @@ This app allows waiters to browse menu items, manage categories, add items to a 
 
  Features
  Menu & Categories
+ 
+- Loads menu and categories from local JSON
 
-Loads menu and categories from local JSON
+- Displays items based on selected category
 
-Displays items based on selected category
+- Default category selection
 
-Default category selection
-
-Menu item images included
+- Menu item images included
 
  Cart System
 
-Add / remove items
+- Add / remove items
 
-Adjust quantity with animations
+- Adjust quantity with animations
 
-Swipe to delete items
+- Swipe to delete items
 
-Cart total displayed in bottom bar
+- Cart total displayed in bottom bar
 
  Order Management
 
-Place orders & save them locally (Hive DB)
+- Place orders & save them locally (Hive DB)
 
-Clear cart after placing order
+- Clear cart after placing order
 
 Order history screen with:
 
 Summary
 
-Time & date
+- Time & date
 
-Item count
+- Item count
 
-Total amount
+- Total amount
 
  Order Detail Screen
 
-Shows full order details
+- Shows full order details
 
-Shows previous orders section
+- Shows previous orders section
 
-Smooth transitions
+- Smooth transitions
 
  Offline First
 
-Everything works without internet
+- Everything works without internet
 
-Using Hive for fast local storage
+- Using Hive for fast local storage
 
-Local JSON as menu source
+- Local JSON as menu source
 
 
 
