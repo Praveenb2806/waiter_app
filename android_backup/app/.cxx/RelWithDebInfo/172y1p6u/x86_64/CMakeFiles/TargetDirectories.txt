@@ -1,0 +1,2 @@
+C:/Users/prave/AndroidStudioProjects/waiter_app/android/app/.cxx/RelWithDebInfo/172y1p6u/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/prave/AndroidStudioProjects/waiter_app/android/app/.cxx/RelWithDebInfo/172y1p6u/x86_64/CMakeFiles/rebuild_cache.dir

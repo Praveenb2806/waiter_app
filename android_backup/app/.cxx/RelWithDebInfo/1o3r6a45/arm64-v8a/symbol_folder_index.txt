@@ -1,0 +1,1 @@
+C:\Users\prave\AndroidStudioProjects\waiter_app\build\app\intermediates\cxx\RelWithDebInfo\1o3r6a45\obj\arm64-v8a

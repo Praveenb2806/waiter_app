@@ -1,0 +1,13 @@
+{
+  "categories": [
+    { "id": "c1", "name": "Starters" },
+    { "id": "c2", "name": "Main Course" },
+    { "id": "c3", "name": "Beverages" }
+  ],
+  "items": [
+    { "id": "i1", "categoryId": "c1", "name": "Chicken Burger Meal", "price": 8.0, "image":"assets/images/burger.png" },
+    { "id": "i2", "categoryId": "c1", "name": "Fries", "price": 3.5, "image":"assets/images/fries.png" },
+    { "id": "i3", "categoryId": "c2", "name": "Grilled Sandwich", "price": 6.0, "image":"assets/images/sandwich.png" },
+    { "id": "i4", "categoryId": "c3", "name": "Pepsi", "price": 2.0, "image":"assets/images/cooldrinks.png" }
+  ]
+}
